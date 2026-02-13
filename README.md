@@ -1,3 +1,3 @@
 # Proyecto Final TypeScript
-# Adrian Iglesias Serrano
-# Diego Gálvez García-Gil
+Adrian Iglesias Serrano
+Diego Gálvez García-Gil
